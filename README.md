@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndresCotton
 - 👀 I’m a Linguist working with LLMs and I'm interested in NLP, Machine Learning and Cognitive Sciences.
-- ✨ I work in the Center of AI and Neuroscience of Torcuato DiTella University, I'm also developing sistems to classify missinformation using LLMs.
+- ✨ I work in the Center of AI and Neuroscience of Torcuato DiTella University, I'm also developing systems to classify missinformation using LLMs.
 
 - 📫 How to reach me @andy.cottn
 
