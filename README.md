@@ -7,9 +7,8 @@ Technical AI Safety Research Manager at [Meridian Cambridge](https://meridiancam
 I work on AI safety and LLM systems, focusing on agentic evals and alignment. I've managed technical research teams and engineers, and like building things from scratch. My background spans machine learning, generative ai, neuroscience, and linguistics.
 
 **Current Focus:**
-- Multi-agent coordination and control evaluation
 - Agentic AI systems and goal-oriented tasks
-- LLM alignment and safety benchmarks
+- Multi-agent coordination and control & alignment evals
 
 **Recent Work:**
 - LLM Engineer at [Latent](https://www.reachlatent.com/)
