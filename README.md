@@ -1,8 +1,29 @@
-- 👋 Hi, I’m @AndresCotton
-- 👀 I’m a Linguist working with LLMs and I'm interested in NLP, Machine Learning and Cognitive Sciences.
-- ✨ I work in the Center of AI and Neuroscience of Torcuato DiTella University, I'm also developing systems to classify missinformation using LLMs.
+# Andrés Cotton
 
-- 📫 How to reach me @andy.cottn
+Technical AI Safety Research Manager at [Meridian Cambridge](https://meridiancambridge.org/)
+
+## About Me
+
+I work on AI safety and LLM systems, focusing on agentic evals and alignment. I've managed technical research teams and engineers, and like building things from scratch. My background spans machine learning, generative ai, neuroscience, and linguistics.
+
+**Current Focus:**
+- Multi-agent coordination and control evaluation
+- Agentic AI systems and goal-oriented tasks
+- LLM alignment and safety benchmarks
+
+**Recent Work:**
+- LLM Engineer at [Latent](https://www.reachlatent.com/)
+- 📄 [The Greatest Good Benchmark](https://aclanthology.org/2024.emnlp-main.1224/) (EMNLP 2024) - measuring LLM alignment with utilitarian principles
+- 🎓 MSc dissertation on AI agent failures in open-ended coordination tasks
+- 🔧 Building evaluation frameworks using Inspect AI, LangGraph, and PyTorch
+
+## Background
+
+- **Education:** MSc Speech & Language Processing (University of Edinburgh), BA Linguistics & Neuroscience (UBA)
+- **Previously:** Director of Prompt Engineering at Cience
+- **Co-founder:** Chevening in AI Network (CHAIN)
+
+📫 Reach me: namelastname @gmail.com |
 
 <!---
 AndresCotton/AndresCotton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
