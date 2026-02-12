@@ -1,5 +1,5 @@
 # Andrés Cotton
-- Senior Machine Learning Scientist at Multiverse Computing
+- Senior Machine Learning Scientist at [Multiverse Computing](https://multiversecomputing.com/)
 - Former Technical AI Safety Research Manager at [Meridian Cambridge](https://meridiancambridge.org/)
 
 ## About Me
